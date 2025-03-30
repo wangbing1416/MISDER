@@ -1,6 +1,6 @@
 # FENDER
 
-This repo is the official code of our work _Variety Is the Spice of Life: Detecting Fake News with Dynamic Contextual Representations_
+This repo is the official code of our work _Variety Is the Spice of Life: Detecting Misinformation with Dynamic Contextual Representations_
 
 This code acknowledges and follows to _Generalizing to the Future: Mitigating Entity Bias in Fake News Detection_
 
