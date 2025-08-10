@@ -1,4 +1,4 @@
-# FENDER
+# MISDER
 
 This repo is the official code of our work _Variety Is the Spice of Life: Detecting Misinformation with Dynamic Contextual Representations_
 
